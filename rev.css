@@ -3,10 +3,32 @@
     text-align: center;
 }
 
+.tabela{
+    display: flex;
+    justify-content: center;
+    color: blue;
+    font-size: 17px;
+}
+
+table{
+    width: 1311px;
+}
+
 .cabeca{
-    width: 900px;
+    height: 53px;
+    border-radius: 20px;
+
 }
 
 .aside{
-    width: 50px;
+    height: 419px;
+    border-radius: 20px;
+}
+
+.article{
+    border-radius: 20px;
+}
+
+.nav{
+    border-radius: 20px;
 }
